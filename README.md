@@ -24,7 +24,7 @@ The user can get an overview of the different coffees, and also add them to thei
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Alexanderrubino05/coffee-app.git
    ```
 2. Install NPM packages
    ```sh
