@@ -1,4 +1,4 @@
-# coffee-app
+# CRUD Coffee App with Firebase & React Native
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
